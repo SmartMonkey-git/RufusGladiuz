@@ -1,4 +1,4 @@
-### A nifty Developer building stuff in the crypto space.
+A nifty Developer building stuff in the crypto space.
 
 <!--
 **RufusGladiuz/RufusGladiuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
