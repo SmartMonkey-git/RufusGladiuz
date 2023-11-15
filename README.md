@@ -1,5 +1,5 @@
 A nifty Developer building stuff in the crypto space.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufusgladiuz)](https://github.com/rufusgladiuz/github-readme-stats)
+[![Top Langs](https://gith![RufusGladiuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rufusgladiuz&show_icons=true&theme=radical)
 <!--
 **RufusGladiuz/RufusGladiuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
